@@ -99,6 +99,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  - [History-of-Diplomacy-and-Technology_FromSsmokeSignals-to-AI](https://www.diplomacy.edu/resource/history-of-diplomacy-and-technology-from-smoke-signals-to-artificial-intelligence-2nd-edition/)
 > 
+>  - 🇮🇹 [BOOKS for PEACE alla Premio Nobel per la Pace](https://www.booksforpeace.org/i-diritti-umani-hanno-sempre-la-precedenza-premio-nobel-per-la-pace-2003-shirin-ebadi-books-for-peace-2025-londra-febbraio25/) 
 > 
 >  - 🇪🇺 [EU AI ACT - Emotional Prohibited AI Practices](https://bluearrow.ai/emotion-recognition/)
 >
