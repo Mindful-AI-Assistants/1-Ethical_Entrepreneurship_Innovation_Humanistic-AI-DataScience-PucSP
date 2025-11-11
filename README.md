@@ -1056,7 +1056,7 @@ Critical KPIs for measuring TV 3D commerce success:
 
 > [!TIP]
 > 
->  [Click here]() ⚡️
+>  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/0d1aad95cb6d48a5fafa778e3de8aed51deccba2/class__10-Patent_Records_Intellectual_Property/Patent_Records_Intellectual_Property.pdf) ⚡️
 >
 
 <br><br>
