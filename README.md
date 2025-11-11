@@ -1102,7 +1102,7 @@ Critical KPIs for measuring TV 3D commerce success:
 
 <br><br>
 
-### [How to Patent Software in Brazil]()
+## [How to Patent Software in Brazil]()
 
 <br>
 
@@ -1113,14 +1113,14 @@ https://github.com/user-attachments/assets/19d21464-7bf3-4e43-b929-348bee082cd9
 📺 [Watch on You Tube](https://youtu.be/a6cTB3o-FQc?si=iriV8jdDv1Az4glQ)
 
 
-<br><br><br>
+<br><br>
 
 
-### [Software registration with INPI - Step-by-step   Protect your copyrights]()
+## [Software registration with INPI - Step-by-step   Protect your Copyrights]()
 
 <br>
 
-
+https://github.com/user-attachments/assets/fc195c53-9671-47da-81bc-bab30fab6f89
 
 <br>
 
