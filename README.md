@@ -1100,8 +1100,12 @@ Critical KPIs for measuring TV 3D commerce success:
 
 
 
+<br><br>
+
+📺 [Watch on You Tube](https://youtu.be/a6cTB3o-FQc?si=iriV8jdDv1Az4glQ)
 
 
+<br><br>
 
 
 
