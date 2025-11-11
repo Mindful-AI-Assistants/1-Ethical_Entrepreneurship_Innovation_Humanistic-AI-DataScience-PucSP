@@ -56,6 +56,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [!TIP]
 > 
 >   Startup Links: Brazil & Beyond 🛸
+>
+> - [Kahhot](https://kahoot.it/)
 > 
 > - [Startups Digital Magazine](https://startups.com.br/)
 > 
