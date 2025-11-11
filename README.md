@@ -1052,7 +1052,7 @@ Critical KPIs for measuring TV 3D commerce success:
 <br><br>
 
 
-# VIII and IX - [Concept of Simulation, Business Games, and Their imits]()
+# VIII and IX - [Concept of Simulation, Business Games, and Their Limits]()
 
 <br><br>
 
@@ -1116,7 +1116,7 @@ https://github.com/user-attachments/assets/19d21464-7bf3-4e43-b929-348bee082cd9
 <br><br>
 
 
-## [Software registration with INPI - Step-by-step   Protect your Copyrights]()
+## [Software Registration with INPI - Step-by-Step   Protect your Copyrights]()
 
 <br>
 
