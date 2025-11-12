@@ -386,7 +386,7 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 <br><br>
 
-### ⚡️ [Click here]() to launch the deck!
+### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/7b625acdd8873a50f748722bb789f5dcab60e168/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE%20.pdf) to launch the deck!
 
 <br><br>
 
