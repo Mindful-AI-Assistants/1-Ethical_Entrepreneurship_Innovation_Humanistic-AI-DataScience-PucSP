@@ -749,7 +749,7 @@ As AI systems become more widespread, it is essential to address potential risks
 
 > [!TIP]
 > 
->  [Click here]() ⚡️
+>  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/0857fccc53755862991deb3cb12f16f1200ab177/class_6-Why%20Be%20Creative%20and%20Innovative%3F/Why%20Be%20Creative%20and%20Innovative%3F.pdf) ⚡️
 >
 
 
