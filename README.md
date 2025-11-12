@@ -300,9 +300,9 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 <br><br>
 
 
-> [!TIP]
+> [!IMPORTANT]
 >
-> #### 👌 ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
+>  #### ⚠️ ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
 > 
 
 <br><br>
@@ -350,7 +350,7 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 <br><br>
 
 
-## [Tips to Foster Innovation \& Creativity]()
+## [Tips to Foster Innovation & Creativity]()
 
 <br>
 
@@ -396,7 +396,7 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 <br><br>
 
 
-# IV - [Entrepreneurship in AI/Data Science]()
+# IV - [Entrepreneurship in Humanistic AI Data Science]()
 
 <br><br>
 
@@ -413,29 +413,26 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 ## [Overview]()
 
-Entrepreneurship in **AI and Data Science** is driven by creativity, innovation, and the willingness to overcome barriers that impede progress. True entrepreneurs recognize that failures are learning opportunities and persistence is key to success. Platforms like **Kahoot.it** are often used for interactive learning and assessment, helping to foster engagement and creative thinking during lessons and workshops.[^1]
+Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativity, innovation, and the willingness to overcome barriers that impede progress. True entrepreneurs recognize that failures are learning opportunities and persistence is key to success. Platforms like **Kahoot.it** are often used for interactive learning and assessment, helping to foster engagement and creative thinking during lessons and workshops.
 
 <br>
 
-## [Innovation Barriers]()
+## [Innovation Barriers]() and [Cultural Blockages]()
+
 
 <br>
 
-### [Cultural Blockages]()
+#### - ❌ Many organizations fall into the trap of maintaining traditions with the motto:  [“If it’s working, don’t change it ”]().
 
 <br>
 
-- ❌ Many organizations fall into the trap of maintaining traditions with the motto, [“ If it’s working, don’t change it ”]().
-
-<br>
-
-- ✅ A shift in mindset is needed: [“ If the team is winning, Improve It ! ”]().
+#### - ✅ A shift in mindset is needed: [“ If the team is winning, Improve It ! ”]().
 
 
 <br><br>
 
 
-> [!TIP]
+> [!IMPORTANT]
 >
 > #### 👌🏻
 > 
@@ -475,7 +472,7 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 <br><br>
 
-## [Practices to Foster Innovation \& Creativity]()
+## [Practices to Foster Innovation & Creativity]()
 
 <br>
 
@@ -500,23 +497,30 @@ Entrepreneurship in **AI and Data Science** is driven by creativity, innovation,
 
 ## [Walking as a Tool for Innovation]()
 
-The practice of **walking alone** is recommended for fostering unexpected associations and expanding conscious awareness, as it connects mind, body, and spirit. This approach is highlighted in the video referenced in the Presenation.
+<br>
 
-- Watch the video: [Walking for innovation](https://www.youtube.com/watch?v=rsOBLOTCCLO)
+The practice of [***walking alone***]() is recommended for fostering unexpected associations and expanding conscious awareness, as it connects mind, body, and spirit. This approach is highlighted in the video referenced in the Presenation.
+
+
+- Watch the video: [Walking for innovation](https://youtu.be/aR0197lzwsA?si=vXMDf3IZPy36ENqq)
 
 
 <br>
 
 ## [Neuroscience and Trauma Processing]()
 
-The role of [**EMDR therapy (Eye Movement Desensitization and Reprocessing)**]() is mentioned for its neurological basis in processing trauma, showing how brain activity and movement can support creativity and problem-solving.
+<br>
+
+The role of [***EMDR therapy (Eye Movement Desensitization and Reprocessing)***]() is mentioned for its neurological basis in processing trauma, showing how brain activity and movement can support creativity and problem-solving.
+
+- Watch the video: [Eye Movement May Be Able To Heal Our Traumas | Tricia Walsh | TEDxUCDavisSF](https://youtu.be/lOkSm90f2Do?si=X-Qc5PkvVt4Sd4us)
 
 
 
 <br><br>
 
 
-# V - [ InferenceOps - Driving Ethical Innovation and Entrepreneurship through Decentralized AI and Open Access]()
+# V - [InferenceOps - Driving Ethical Innovation and Entrepreneurship through Decentralized AI and Open Access]()
 
 <br>
 
