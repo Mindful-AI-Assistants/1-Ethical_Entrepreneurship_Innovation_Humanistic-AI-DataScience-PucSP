@@ -499,9 +499,15 @@ The role of [**EMDR therapy (Eye Movement Desensitization and Reprocessing)**]()
 > 
 >  ## Explore our Project ➟ [InferenceOps: Scalable, Governed, and Ethical AI](https://github.com/Mindful-AI-Assistants/Project-InferenceOps-Embedded-Innovation) 🔥 that’s where the magic happens  
 >
+>  - [Ethical Scalable Automation Governance Compliance Framework Business Applications](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/Ethical%20%20Scalable%20Automation%20Governance%20Compliance%20Framework%20%20Business%20Applications%20.pdf)
+> <br>
 > 
-
-
+> - [Ethical Principles and Governance Technology](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/Ethical%20Principles%20and%20Governance%20Technology.pdf)
+> <br>
+>
+> - [Decentralized AI Perspective](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/decentralized_AI_perspective.pdf)
+><br>
+> 
 
 <br><br>
 
