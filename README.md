@@ -424,12 +424,11 @@ Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativi
 
 #### - ❌ Many organizations fall into the trap of maintaining traditions with the motto:  [“If it’s working, don’t change it ”]().
 
-<br>
 
 #### - ✅ A shift in mindset is needed: [“ If the team is winning, Improve It ! ”]().
 
 
-<br><br>
+<br>
 
 
 > [!IMPORTANT]
@@ -440,9 +439,9 @@ Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativi
 >
 
 
-<br><br>
+<br>
 
-### [Other Blockages]()
+### - [Other Blockages]()
 
 <br>
 
@@ -458,9 +457,9 @@ Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativi
 
 <br>
 
-### [Anti-Perceptual Blockage Phrase]()
+### - [Anti-Perceptual Blockage Phrase]()
 
-<br><br>
+<br>
 
 > [!IMPORTANT]
 > 
@@ -470,7 +469,7 @@ Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativi
 > 
 >
 
-<br><br>
+<br>
 
 ## [Practices to Foster Innovation & Creativity]()
 
@@ -501,8 +500,10 @@ Entrepreneurship in [**Humanistic AI and Data Science**]() is driven by creativi
 
 The practice of [***walking alone***]() is recommended for fostering unexpected associations and expanding conscious awareness, as it connects mind, body, and spirit. This approach is highlighted in the video referenced in the Presenation.
 
+<br>
 
-- Watch the video: [Walking for innovation](https://youtu.be/aR0197lzwsA?si=vXMDf3IZPy36ENqq)
+
+- 📺  Watch the video: [Walking for innovation](https://youtu.be/aR0197lzwsA?si=vXMDf3IZPy36ENqq)
 
 
 <br>
@@ -513,7 +514,9 @@ The practice of [***walking alone***]() is recommended for fostering unexpected 
 
 The role of [***EMDR therapy (Eye Movement Desensitization and Reprocessing)***]() is mentioned for its neurological basis in processing trauma, showing how brain activity and movement can support creativity and problem-solving.
 
-- Watch the video: [Eye Movement May Be Able To Heal Our Traumas | Tricia Walsh | TEDxUCDavisSF](https://youtu.be/lOkSm90f2Do?si=X-Qc5PkvVt4Sd4us)
+<br>
+
+- 📺 Watch the video: [Eye Movement May Be Able To Heal Our Traumas | Tricia Walsh | TEDxUCDavisSF](https://youtu.be/lOkSm90f2Do?si=X-Qc5PkvVt4Sd4us)
 
 
 
@@ -522,41 +525,41 @@ The role of [***EMDR therapy (Eye Movement Desensitization and Reprocessing)***]
 
 # V - [InferenceOps - Driving Ethical Innovation and Entrepreneurship through Decentralized AI and Open Access]()
 
-<br>
+<br><br>
 
 > [!TIP]
 > 
 >  #### - Explore our Project ➟ [InferenceOps: Scalable, Governed, and Ethical AI](https://github.com/Mindful-AI-Assistants/Project-InferenceOps-Embedded-Innovation) 🔥 that’s where the magic happens
-> <br>
+> 
 >
 >  #### - [Ethical Scalable Automation Governance Compliance Framework Business Applications](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/Ethical%20%20Scalable%20Automation%20Governance%20Compliance%20Framework%20%20Business%20Applications%20.pdf)
-> <br>
+> 
 > 
 > #### - [Ethical Principles and Governance Technology](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/Ethical%20Principles%20and%20Governance%20Technology.pdf)
-> <br>
+> 
 >
 > #### - [Decentralized AI Perspective](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/acb03e59b34cc320b03ae66ee48421f9d3cd38f6/class_5-InferenceOps%20-%20Driving%20Ethical%20Innovation%20and%20Entrepreneurship%20through%20Decentralized%20AI%20and%20Open%20Access/decentralized_AI_perspective.pdf)
-> <br>
+> 
 > 
 
 <br><br>
 
-### [Overview]()
+## [Overview]()
 
 InferenceOps is a scalable, governed, and ethical AI inference platform designed to unify machine learning and AI serving across teams and domains. This project synthesizes principles from contemporary AI governance and decentralized AI research, notably the MIT Media Lab's framework for decentralized AI, to support privacy, verifiability, equitable incentives, orchestration, and user experience.
 
 <br><br>
 
-### [Traditional ML vs Modern AI]()
+## [Traditional ML vs Modern AI]()
 
 - [**Traditional ML:**]() Teams individually manage their models (fraud, marketing, logistics), training and deploying isolated models.
 - [**Modern AI:**]() Large AI models like large language models (LLMs), vision, multimodal models, require shared heavy infrastructure.
 
-<br>
+<br><br>
 
-[Running separate models per team]():
+##[Running separate models per team]():
 
-- Increases costs due to duplication
+- Incr eases costs due to duplication
 - Leads to inconsistent results and policies
 - Weakens governance and auditability
 
@@ -564,7 +567,7 @@ InferenceOps is a scalable, governed, and ethical AI inference platform designed
 <br><br>
 
 
-### [InferenceOps Solution]()
+## [InferenceOps Solution]()
 
 A centralized inference platform serving all teams that provides:
 
@@ -578,11 +581,11 @@ A centralized inference platform serving all teams that provides:
 <br><br>
 
 
-### [Key Diagrams]()
+## [Key Diagrams]()
 
 <br>
 
-#### [Traditional ML Architecture]()
+### [Traditional ML Architecture]()
 
 <br>
 
@@ -597,7 +600,7 @@ flowchart TD
 <br>
 
 
-#### [InferenceOps Centralized Platform]()
+### [InferenceOps Centralized Platform]()
 
 <br>
 
@@ -630,7 +633,7 @@ flowchart TD
 <br><br>
 
 
-### [Ethical Dimensions]()
+## [Ethical Dimensions]()
 
 <br>
 
@@ -643,7 +646,7 @@ flowchart TD
 
 <br><br>
 
-### [Use Cases]()
+## [Use Cases]()
 
 <br>
 
@@ -656,7 +659,7 @@ flowchart TD
 <br><br>
 
 
-### [Practical Example - Fraud Detection]()
+## [Practical Example - Fraud Detection]()
 
 - Objective: Centralize fraud detection models via InferenceOps platform.
 - Scenario: Formerly isolated team models → contemporary centralized handling in real-time.
@@ -678,7 +681,9 @@ flowchart TD
 <br><br>
 
 
-- Python Code:
+## [Python Code]()
+
+<br>
 
 ```python
 import random
@@ -710,7 +715,7 @@ for log in platform.audit_logs():
 <br><br>
 
 
-### [Best Practices for Implementing InferenceOps]()
+## [Best Practices for Implementing InferenceOps]()
 
 - Centralized infrastructure with auto-scaling GPU/TPU clusters.
 - Strong governance: version control, bias monitoring, transparency.
@@ -723,7 +728,7 @@ for log in platform.audit_logs():
 <br><br>
 
 
-### [Integration of Decentralized AI Principles from MIT Paper]()
+## [Integration of Decentralized AI Principles from MIT Paper]()
 
 <br>
 
@@ -752,14 +757,16 @@ As AI systems become more widespread, it is essential to address potential risks
 
 > [!IMPORTANT]
 >
-> * These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security.
+> #### 👌🏻
+> 
+> #### ***These tools support the development of trustworthy AI systems, promoting innovation with respect for fairness, privacy, transparency, and security***
 >
 
 
 <br><br>
 
 
-| Purpose and Link                                                                                                              | Description                                                                                     |
+| [Purpose and Link]()                                                                                                              | [Description]()                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [TensorFlow's Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)                                                 | Identifies and reduces biases, protects privacy, and promotes transparency                       |
 | [Microsoft Responsible AI Toolbox](https://responsibleaitoolbox.ai/)                                                            | Assesses model fairness, provides insights for informed decisions                              |
@@ -785,7 +792,7 @@ As AI systems become more widespread, it is essential to address potential risks
 
 > [!TIP]
 > 
->  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/0857fccc53755862991deb3cb12f16f1200ab177/class_6-Why%20Be%20Creative%20and%20Innovative%3F/Why%20Be%20Creative%20and%20Innovative%3F.pdf) ⚡️
+>  - ⚡ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/0857fccc53755862991deb3cb12f16f1200ab177/class_6-Why%20Be%20Creative%20and%20Innovative%3F/Why%20Be%20Creative%20and%20Innovative%3F.pdf) ️
 >
 
 
@@ -908,15 +915,17 @@ $$
 \text{Innovation} = \text{Idea} + \text{Actions} + \text{Results}
 ```
 
-<br><br>
+<br>
 
 > [!IMPORTANT]
+>
+> #### 👌🏻
 > 
-> This emphasizes that ideas alone are insufficient without execution and outcome evaluation.
+> #### ***This emphasizes that ideas alone are insufficient without execution and outcome evaluation.***
 >
 
 
-<br><br>
+<br>
 
 ## [Practical Group Activity Idea]()
 
@@ -928,13 +937,9 @@ Groups are encouraged to:
 
 This exercise stimulates lateral thinking and collaborative creativity.
 
-<br><br>
+<br>
 
-
-> [!IMPORTANT]
-> 
 > This topic provides a thorough exploration of why creativity and innovation are invaluable and how to foster them. It serves as a foundational guide for those looking to enhance their creative potential in any field, with special relevance to data science and AI.
->
 
 
 <br><br>
@@ -947,9 +952,10 @@ This exercise stimulates lateral thinking and collaborative creativity.
 
 > [!TIP]
 > 
->  [Click here]() ⚡️
+>  - ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/eb95dad3ef68095df98520a70ad0f3adbb9f9262/class_7-Classifications_and_types_of_Innovations/class_7_Classifications_and_types_of_Innovations.pdf) 
 >
-> ### [Contents]()
+> ### [Contents]():
+> 
 >  * Michael Porter’s Competitive Strategy
 >  * Types of Innovation: Incremental, Disruptive, Radical, Open Innovation
 >  * Photography Innovation Case Study with Python Code
