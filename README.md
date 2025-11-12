@@ -138,11 +138,14 @@ This space is open for collaboration: explore, share, and enhance your skills al
 ### Taking Risks, Identifying Opportunities, and [Creating Profitable]() 
 
 
-<br>
+<br><br>
 
-### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_1-Entrepreneurship/Entrepreneurship.pdf) to launch the deck!
+> [!TIP]
+> 
+> - ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_1-Entrepreneurship/Entrepreneurship.pdf) 
+>
 
-<br>
+<br><br>
 
 
 Entrepreneurship is the process of creating and growing new businesses by transforming innovative ideas into profitable ventures. A key characteristic of successful entrepreneurs is their willingness to assume risk. Taking risks involves stepping into uncertainty, making decisions without guaranteed outcomes, and being ready to face challenges and setbacks. However, it is this calculated risk-taking that often leads to breakthrough innovations and significant rewards.
@@ -179,11 +182,15 @@ Another misconception is that only completely original and revolutionary ideas l
 
 # II  - [Business Plan and Angel Investor]() 
 
-<br>
+<br><br>
 
-### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_2-Business%20Plan-Angel%20Investor/Business%20Plan-Angel%20Investor.pdf) to launch the deck!
+> [!TIP]
+> 
+> - ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/0e4d08c63c468bcbcd6fe5139bd3a6b68122a06c/class_2-Business%20Plan-Angel%20Investor/Business%20Plan-Angel%20Investor.pdf) 
+>
+>
 
-<br>
+<br><br>
 
 
 The ultimate [*startup hustle guide*]()*. Nail the moves to launch your business and make investors ✍🏻 ask, ["Where do I sign?"]()
@@ -290,11 +297,12 @@ Your business plan is like your pitch deck brought to life in words—a detailed
   Preparation is everything. Make sure your business plan documents are polished, error-free, and tell a compelling story. Practice your pitch so you can deliver it confidently and clearly, anticipating questions and objections. Demonstrate your passion, knowledge, and readiness to execute. Remember, investors invest in people as much as ideas—confidence and preparation can be dealmakers.
 
 
-<br>
+<br><br>
+
 
 > [!TIP]
 >
-> ### 👌 *Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world*
+> #### 👌 ***Taking these steps seriously turns an idea into a viable, investable business and maximizes your chances for success in the competitive startup world***
 > 
 
 <br><br>
@@ -304,9 +312,15 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 <br><br>
 
-### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/bd89cb9e49731b1dee51c260fd7ed1eb95409129/class_3-Innovation%20and%20Creativity/Innovation%20and%20Creativity_presentation.pdf) to launch the deck!
+
+> [!TIP]
+>
+> - ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/bd89cb9e49731b1dee51c260fd7ed1eb95409129/class_3-Innovation%20and%20Creativity/Innovation%20and%20Creativity_presentation.pdf) 
+>
+>
 
 <br><br>
+
 
 ## [Concept Overview]()
 
