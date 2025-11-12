@@ -383,13 +383,13 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 > [!IMPORTANT]
 >
-> ### 👌
+> #### 👌
 > 
-> ### **Creativity always means doing the unfamiliar.** — [Eleanor Roosevel]()
+> #### ***Creativity always means doing the unfamiliar.*** — [Eleanor Roosevel]()
 >
-> ### **Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.** — [Bill Gates]()
+> #### ***Try one, two, three times, and if possible, try a fourth, fifth, as many times as needed. Persistence is the friend of achievement.*** — [Bill Gates]()
 >
-> ### **A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.**
+> #### ***A pessimist sees difficulty in every opportunity, an optimist sees opportunity in every difficulty.***
 >
 
 
@@ -400,7 +400,13 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 
 <br><br>
 
-### ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/7b625acdd8873a50f748722bb789f5dcab60e168/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE%20.pdf) to launch the deck!
+
+> [!TIP]
+>
+> - ⚡️ [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/7b625acdd8873a50f748722bb789f5dcab60e168/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE/class_4-ENTREPRENEURSHIP%20IN%20AI%20%3ADATA%20SCIENCE%20.pdf)
+>
+>
+
 
 <br><br>
 
