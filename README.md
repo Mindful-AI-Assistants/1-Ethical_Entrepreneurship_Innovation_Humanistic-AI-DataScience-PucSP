@@ -134,8 +134,8 @@ This space is open for collaboration: explore, share, and enhance your skills al
 <br><br>
 
 
-# I -  [**Entrepreneurship**](): 
-### Taking Risks, Identifying Opportunities, and [Creating Profitable]() 
+# I -  [**Entrepreneurship**]()
+### ***Taking Risks, Identifying Opportunities, and*** [***Creating Profitable***]() 
 
 
 <br><br>
@@ -159,7 +159,7 @@ Venture capital plays a critical role in enabling entrepreneurs to scale their b
 
 <br>
 
-## 3 [Common Myths About Entrepreneurship]()
+## 3 - [Common Myths About Entrepreneurship]()
 
 <br>
 
@@ -308,7 +308,7 @@ Your business plan is like your pitch deck brought to life in words—a detailed
 <br><br>
 
 
-# III  - [Innopvation and Creativity IN AI /DATA SCIENCE]() 
+# III  - [Innovation and Creativity IN AI /DATA SCIENCE]() 
 
 <br><br>
 
