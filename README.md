@@ -1182,7 +1182,7 @@ https://github.com/user-attachments/assets/fc195c53-9671-47da-81bc-bab30fab6f89
 
 > [!TIP]
 > 
->  [Click here]()
+>  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/d8633703e80594169eebe3c33e17b7d7762e648c/class__11-Negotiation%20and%20conflicts%20The%20challenges%20and%20appropriate%20decision%20techniques%20in%20conducting%20negotiations/Negotiation%20and%20conflicts%20The%20challenges%20and%20appropriate%20decision%20techniques%20in%20conducting%20negotiations.pdf)
 >
 >
 
