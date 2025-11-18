@@ -1174,7 +1174,7 @@ https://github.com/user-attachments/assets/fc195c53-9671-47da-81bc-bab30fab6f89
 <br><br>
 <br><br>
 
-# X - [Negotiations & Conflicts](0
+# XI - [Negotiations & Conflicts](0
 ### ***The challenges and appropriate decision techniques in conducting negotiations***
 
 <br><br>
