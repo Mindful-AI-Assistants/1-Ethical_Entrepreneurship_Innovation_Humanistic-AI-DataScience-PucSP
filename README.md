@@ -1094,7 +1094,16 @@ Critical KPIs for measuring TV 3D commerce success:
 <br><br>
 
 
-# VIII and IX - [Concept of Simulation, Business Games, and Their Limits]()
+
+
+### ===================================================
+### Still Surfing This Project 🏄
+### =================================================
+
+
+
+
+# VIII  - [Concept of Simulation, Business Games, and Their Limits]() Part 1
 
 <br><br>
 
@@ -1102,13 +1111,28 @@ Critical KPIs for measuring TV 3D commerce success:
 > 
 >  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/f03e2db131792cc1d9b186589279e791a266fc90/class_8%3A9-Simulation%20Concept-%20Company%20Games/Slides_Presentation.pdf)
 >
+>
+>
+>
 
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 
 
+# IX  - [Concept of Simulation, Business Games, and Their Limits]() Part 2
 
+<br><br>
 
+> [!TIP]
+> 
+>  [Click here](https://github.com/Mindful-AI-Assistants/Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP/blob/f03e2db131792cc1d9b186589279e791a266fc90/class_8%3A9-Simulation%20Concept-%20Company%20Games/Slides_Presentation.pdf)
+>
+>
+>
+>
 
 
 
@@ -1174,7 +1198,7 @@ https://github.com/user-attachments/assets/fc195c53-9671-47da-81bc-bab30fab6f89
 <br><br>
 <br><br>
 
-# X - [Negotiations & Conflicts](0
+# XI - [Negotiations & Conflicts]()
 ### ***The challenges and appropriate decision techniques in conducting negotiations***
 
 <br><br>
