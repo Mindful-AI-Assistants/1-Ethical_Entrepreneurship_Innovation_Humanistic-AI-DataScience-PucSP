@@ -22,9 +22,11 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 
+<br><br>
+
+
 <!--Confidentiality Statement-->
 
-<br><br>
 
 <br><br>
 
@@ -45,15 +47,36 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >
 
+<!--End-->
+
+<br><br>
+
 
 #  
 
-<br><br><br>
-
-<!--End-->
+<br><br>
 
 
 > [!TIP]
+>
+>  This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
+>  To explore all related materials, analyses, and notebooks, visit the repositories: 
+>
+> * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
+>
+> * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)
+> 
+>   
+
+
+<br><br>
+
+#
+
+<br><br>
+
+
+> [!NOTE]
 > 
 >   Startup Links: Brazil & Beyond 🛸
 >
