@@ -8,7 +8,7 @@
 <br><br>
 
 
-##   <p align="center"> 🦄  [**Ethical Entrepreneurships and Innovation**]() - in Humanistic AI & Data Science — PUC-SP.
+##   <p align="center"> 🦄  [**Ethical Entrepreneurships and Innovation**]() - in Humanistic AI & Data Science - PUCSP.
 
 
 
