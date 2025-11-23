@@ -1,6 +1,15 @@
 <br>
 
-##   <p align="center"> [Humanistic]() Data Science and Artificial Intelligence (CDIA): [**Ethical Entrepreneurships**]()
+
+
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+
+
+<br><br>
+
+
+##   <p align="center"> 🦄  [**Ethical Entrepreneurships and Innovation**]() - in Humanistic AI & Data Science — PUC-SP.
+
 
 
 <br><br>
@@ -41,7 +50,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
 >
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
 >
 > * [**Confidential information**]() from this repository remains private in [private repositories]().
 >
@@ -66,7 +75,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >  
 > * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)   <br>
 > 
->   
+> > * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>  
+>
 
 
 <br><br>
