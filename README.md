@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >  
 > * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)   <br>
 > 
-> > * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>  
+> * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>  
 >
 
 
