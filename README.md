@@ -59,8 +59,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!TIP]
 >
->  This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
->  To explore all related materials, analyses, and notebooks, visit the repositories: 
+>  This is the main Repo da disciplina - Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
+>  To explore os demais Projetos rekacionados a esse tema visite
 >
 > * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
 >
