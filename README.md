@@ -59,12 +59,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!TIP]
 >
->  This is the main Repo da disciplina - Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
->  To explore os demais Projetos rekacionados a esse tema visite
->
-> * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
->
-> * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)
+> * **This is the main repository for the course *Ethical Entrepreneurship and Innovation in Humanistic AI & Data Science* — PUC-SP.**  <br>
+> * To explore the other projects related to this topic, visit:  <br>
+>  
+> * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)   <br>
 > 
 >   
 
