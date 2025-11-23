@@ -6,13 +6,13 @@
 <br><br>
 
 
-####  <p align="center"> Under the guidance of Professor Wagner Tufano -  [YouTube Channel](https://youtube.com/@wagnertufano611?si=bC8wqdmCcheEyqLL)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
 
 <br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
+####  <p align="center"> Under the guidance of Professor Wagner Tufano -  [YouTube Channel](https://youtube.com/@wagnertufano611?si=bC8wqdmCcheEyqLL)
 
 
 <br><br>
