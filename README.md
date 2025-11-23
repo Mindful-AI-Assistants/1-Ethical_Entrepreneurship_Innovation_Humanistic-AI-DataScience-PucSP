@@ -2,12 +2,14 @@
 
 ##   <p align="center"> [Humanistic]() Data Science and Artificial Intelligence (CDIA): [**Ethical Entrepreneurships**]()
 
-<br>
-
-###  <p align="center"> [Wagner Tufano’s YouTube channel: Wagner](https://youtube.com/@wagnertufano611?si=bC8wqdmCcheEyqLL)
-
 
 <br><br>
+
+
+####  <p align="center"> Under the guidance of Professor Wagner Tufano -  [YouTube Channel](https://youtube.com/@wagnertufano611?si=bC8wqdmCcheEyqLL)
+
+<br><br>
+
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
