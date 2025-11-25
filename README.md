@@ -1114,9 +1114,9 @@ TV 3D technology creates the illusion of three-dimensional images by sending sep
 
 <br>
 
-- [**Active 3D:**() Uses battery-powered glasses with shutters that alternately block each eye in sync with the TV's screen refresh, showing left and right images in sequence so each eye sees the correct perspective. This method provides full HD resolution to each eye but requires powered glasses.
+- [**Active 3D:**]() Uses battery-powered glasses with shutters that alternately block each eye in sync with the TV's screen refresh, showing left and right images in sequence so each eye sees the correct perspective. This method provides full HD resolution to each eye but requires powered glasses.
 
-- [**Passive 3D:**() Uses polarized glasses that filter two differently polarized images shown simultaneously on the screen. It is lighter and cheaper but each eye receives half the resolution.
+- [**Passive 3D:**]() Uses polarized glasses that filter two differently polarized images shown simultaneously on the screen. It is lighter and cheaper but each eye receives half the resolution.
 Modern 3D TVs usually require special glasses for viewing. Efforts have been made to develop glasses-free 3D TVs using lenticular lenses or eye-tracking, but they face challenges like limited viewing angles.
 
 <br>
