@@ -1104,7 +1104,7 @@ plt.show()
 
 ## [TV 3D TCommerce]()
 
-<br><br>
+<br>
 
 ### [TV 3D Technology]()
 
@@ -1112,7 +1112,6 @@ plt.show()
 
 TV 3D technology creates the illusion of three-dimensional images by sending separate images to each eye, which the brain then combines into a perception of depth. There are two main types of TV 3D:
 
-<br>
 
 - [**Active 3D:**]() Uses battery-powered glasses with shutters that alternately block each eye in sync with the TV's screen refresh, showing left and right images in sequence so each eye sees the correct perspective. This method provides full HD resolution to each eye but requires powered glasses.
 
@@ -1133,7 +1132,6 @@ Modern 3D TVs usually require special glasses for viewing. Efforts have been mad
 
 T-Commerce (Television Commerce) refers to the integration of e-commerce capabilities directly into the TV viewing experience, allowing viewers to purchase products or services shown on TV programs or ads interactively.
 
-<br>
 
 ### [**Key features of T-Commerce include:**]()
 
@@ -1148,7 +1146,7 @@ T-Commerce (Television Commerce) refers to the integration of e-commerce capabil
 
 > T-Commerce is growing with the rise of smart TVs and streaming platforms, merging traditional broadcast media with online shopping dynamics. It can be particularly effective for special events, home shopping channels, and sponsored content.
 
-<br><br>
+<br>
 
 
 
