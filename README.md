@@ -1101,11 +1101,89 @@ plt.show()
 <br><br>
 
 
-## TV 3D Commerce: KPIs and Metrics
+
+## [TV 3D TCommerce]()
+
+<br><br>
+
+### [TV 3D Technology]()
 
 <br>
 
-Critical KPIs for measuring TV 3D commerce success:
+TV 3D technology creates the illusion of three-dimensional images by sending separate images to each eye, which the brain then combines into a perception of depth. There are two main types of TV 3D:
+
+<br>
+
+- [**Active 3D:**() Uses battery-powered glasses with shutters that alternately block each eye in sync with the TV's screen refresh, showing left and right images in sequence so each eye sees the correct perspective. This method provides full HD resolution to each eye but requires powered glasses.
+
+- [**Passive 3D:**() Uses polarized glasses that filter two differently polarized images shown simultaneously on the screen. It is lighter and cheaper but each eye receives half the resolution.
+Modern 3D TVs usually require special glasses for viewing. Efforts have been made to develop glasses-free 3D TVs using lenticular lenses or eye-tracking, but they face challenges like limited viewing angles.
+
+<br>
+
+> The main limitation of 3D TV has been viewer discomfort and limited content availability, which affected market adoption despite the impressive visual experience
+
+
+<br><br>
+
+
+### [T-Commerce: Electronic Commerce via TV]()
+
+<br>
+
+T-Commerce (Television Commerce) refers to the integration of e-commerce capabilities directly into the TV viewing experience, allowing viewers to purchase products or services shown on TV programs or ads interactively.
+
+<br>
+
+### [**Key features of T-Commerce include:**]()
+
+<br>
+
+[-]() Interactive advertisements that allow viewers to click through or select products via remote controls.
+[-]() Integration with smart TVs and set-top boxes to enable browsing catalogs and purchasing without switching devices.
+[-]() Use of augmented reality or overlays during live shows or commercials to highlight products and promotions.
+[-]() Enhanced customer experience by combining entertainment with immediate purchase ability.
+
+<br>
+
+> T-Commerce is growing with the rise of smart TVs and streaming platforms, merging traditional broadcast media with online shopping dynamics. It can be particularly effective for special events, home shopping channels, and sponsored content.
+
+<br><br>
+
+
+
+### ===================================================
+### Still Surfing This Project 🏄
+### =================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+
+
+## [TV 3D TCommerce: KPIs and Metrics]()
+
+<br>
+
+### [Critical KPIs for measuring TV 3D commerce success:
 
 <br>
 
@@ -1127,13 +1205,9 @@ Critical KPIs for measuring TV 3D commerce success:
 
 <br><br>
 
-
-
-
 ### ===================================================
 ### Still Surfing This Project 🏄
 ### =================================================
-
 
 
 
