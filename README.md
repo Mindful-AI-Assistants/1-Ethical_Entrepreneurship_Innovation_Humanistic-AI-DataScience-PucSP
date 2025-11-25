@@ -582,23 +582,23 @@ The role of [***EMDR therapy (Eye Movement Desensitization and Reprocessing)***]
 
 InferenceOps is a scalable, governed, and ethical AI inference platform designed to unify machine learning and AI serving across teams and domains. This project synthesizes principles from contemporary AI governance and decentralized AI research, notably the MIT Media Lab's framework for decentralized AI, to support privacy, verifiability, equitable incentives, orchestration, and user experience.
 
-<br><br>
+<br>
 
 ## [Traditional ML vs Modern AI]()
 
 - [**Traditional ML:**]() Teams individually manage their models (fraud, marketing, logistics), training and deploying isolated models.
 - [**Modern AI:**]() Large AI models like large language models (LLMs), vision, multimodal models, require shared heavy infrastructure.
 
-<br><br>
+<br>
 
-##[Running separate models per team]():
+## [Running separate models per team]():
 
 - Incr eases costs due to duplication
 - Leads to inconsistent results and policies
 - Weakens governance and auditability
 
 
-<br><br>
+<br>
 
 
 ## [InferenceOps Solution]()
@@ -612,7 +612,7 @@ A centralized inference platform serving all teams that provides:
 - Cost efficiency through shared infrastructure
 
 
-<br><br>
+<br>
 
 
 ## [Key Diagrams]()
@@ -650,7 +650,7 @@ flowchart TD
 <br><br>
 
 
-### [Comparison Table]()
+## [Comparison Table]()
 
 <br>
 
@@ -678,7 +678,7 @@ flowchart TD
 - Fairness: Bias detection and mitigation strategies.
 - Sustainability: Avoidance of computational resource waste.
 
-<br><br>
+<br>
 
 ## [Use Cases]()
 
@@ -690,7 +690,7 @@ flowchart TD
 - [**Public Sector:**]() Transparent unified decision-making platforms.
 
 
-<br><br>
+<br>
 
 
 ## [Practical Example - Fraud Detection]()
@@ -786,8 +786,6 @@ As AI systems become more widespread, it is essential to address potential risks
 
 <br><br>
 
-<br>
-  
 
 > [!IMPORTANT]
 >
@@ -814,9 +812,7 @@ As AI systems become more widespread, it is essential to address potential risks
 | [Ethical OS Toolkit](https://oecd-opsi.org/toolkits/ethical-os-toolkit/)                                                         | Identifies ethical risks and harms                                                            |
 
 
-
-
-<br><br>
+<br><br><br>
 
 
 
@@ -921,7 +917,10 @@ Language shapes thought and creativity:
 
 ## [Influential People to Surround Yourself With]()
 
-To cultivate creativity and innovative spirit, it is vital to be around:
+### [***To cultivate creativity and innovative spirit, it is vital to be around:***]()
+
+<br>
+
 
 - Inspired individuals
 - Motivated people
@@ -933,23 +932,23 @@ To cultivate creativity and innovative spirit, it is vital to be around:
 
 ## [Formula for Innovation]()
 
-Innovation can be succinctly defined as:
+### [***Innovation can be succinctly defined as:***]()
 
-<br><br>
+<br><br><br>
 
 $$
 \Huge
 \text{Innovation} = \text{Idea} + \text{Actions} + \text{Results}
 $$
 
-<br>
+<br><br>
 
 ```latex
 \Huge
 \text{Innovation} = \text{Idea} + \text{Actions} + \text{Results}
 ```
 
-<br>
+<br><br>
 
 > [!IMPORTANT]
 >
